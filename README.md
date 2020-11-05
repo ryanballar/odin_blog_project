@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+Favorite Books 
+Crime and Punishment
+Critique of Pure Reason
